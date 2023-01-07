@@ -1,1 +1,2 @@
-clone text
+clone text is updated one
+
